@@ -5,7 +5,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark",
 locale                   : "en-US"
 title                    : "Myeongsoo Kim"
 title_separator          : "-"
-subtitle                 : "About Me"
+subtitle                 :
 name                     : "Myeongsoo Kim"
 description              : "Ph.D. Student in Industrial & Management Engineering at POSTECH. Research on Reliability of Generative AI."
 url                      : "https://Kim-Myeong-Soo.github.io"
