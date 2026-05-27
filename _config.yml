@@ -42,9 +42,8 @@ analytics:
 author:
   name             : "Myeongsoo Kim"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Student in Industrial & Management Engineering at POSTECH. Working on fairness and reliability of generative models."
+  bio              : "Ph.D. Student in Industrial & Management Engineering at POSTECH."
   location         : "Pohang, South Korea"
-  email            : "kims71@postech.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

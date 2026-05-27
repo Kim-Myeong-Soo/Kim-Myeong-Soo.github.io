@@ -18,6 +18,7 @@ I am a second-year Ph.D. student in the Department of Industrial & Management En
   Myeongsoo Kim, Eunji Kim, Minwoo Chae, Sangwoo Mo  
   *arXiv preprint, 2026* \[[arXiv](#)\]
 
+<!--
 ## News
 
 - **[2026.05]** Paper submitted to arXiv — "Stay Fair!"
@@ -28,3 +29,4 @@ I am a second-year Ph.D. student in the Department of Industrial & Management En
 - **Ph.D.** Industrial & Management Engineering, POSTECH *(2024 — present)*
 - **M.S.** Industrial & Management Engineering, POSTECH *(2022 — 2024)*
 - **B.S.** Industrial & Management Engineering, POSTECH *(2017 — 2022)*
+-->
