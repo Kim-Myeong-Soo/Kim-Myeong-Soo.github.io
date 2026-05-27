@@ -13,9 +13,8 @@ During my M.S. at the same department, I was supervised by [Prof. Minwoo Chae](h
 
 ## Research Interests
 
-- Fairness of generative models (image, text, multimodal)
-- Reliability and robustness of diffusion models
-- Trustworthy AI across diverse modalities
+- Fairness of text-to-image diffusion model
+- Reliability and robustness of LLM agent
 
 ## Publications
 
