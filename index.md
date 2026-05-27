@@ -4,7 +4,11 @@ author_profile: true
 permalink: /
 ---
 
-I am a second-year Ph.D. student in the Department of Industrial & Management Engineering at [POSTECH](https://www.postech.ac.kr), advised by [Prof. Sangwoo Mo](https://sites.google.com/view/sangwoomo/about) at the [MOAI Lab](https://sites.google.com/view/sangwoomo/moai-lab). My research centers on the **fairness and reliability of generative models** across diverse modalities — asking not just whether these models work, but whether they work equitably and consistently.
+## About Me
+
+I am a second-year Ph.D. student in the [Department of Industrial & Management Engineering at POSTECH](https://ime.postech.ac.kr/ime/index.do), fortunately advised by [Prof. Sangwoo Mo](https://sites.google.com/view/sangwoomo/about) at the [Multimodal Orchestration of Artificial Intelligence (MOAI) Lab](https://sites.google.com/view/sangwoomo/moai-lab). My research centers on the fairness and reliability of generative models across diverse modalities.
+
+During my M.S. at the same department, I was supervised by [Prof. Minwoo Chae](https://sds.postech.ac.kr/). My work during that time focused on diffusion models and ML applications in industrial project.
 
 ## Research Interests
 
