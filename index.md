@@ -20,7 +20,7 @@ During my M.S. at the same department, I was supervised by [Prof. Minwoo Chae](h
 
 - **Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales**  
   Myeongsoo Kim, Eunji Kim, Minwoo Chae, Sangwoo Mo  
-  *arXiv preprint, 2026* \[[arXiv](#)\]
+  *arXiv preprint, 2026* \[[arXiv](https://arxiv.org/abs/2605.28036)\]
 
 <!--
 ## News
