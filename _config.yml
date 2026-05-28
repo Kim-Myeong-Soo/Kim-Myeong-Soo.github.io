@@ -51,9 +51,6 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Kim-Myeong-Soo"
-    - label: "Hugging Face"
-      icon: "fas fa-fw fa-smile"
-      url: "https://huggingface.co/thingsu"
 
 # Site Footer
 footer:
