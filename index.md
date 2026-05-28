@@ -7,9 +7,9 @@ title: " "
 
 ## About Me
 
-I am a second-year Ph.D. student in the [Department of Industrial & Management Engineering at POSTECH](https://ime.postech.ac.kr/ime/index.do), fortunately advised by [Prof. Sangwoo Mo](https://sites.google.com/view/sangwoomo/about) at the [Multimodal Orchestration of Artificial Intelligence (MOAI) Lab](https://sites.google.com/view/sangwoomo/moai-lab). My research centers on the fairness and reliability of generative models in realistic user-facing scenarios.
+I am a second-year Ph.D. student in the [Department of Industrial & Management Engineering at POSTECH](https://ime.postech.ac.kr/ime/index.do), fortunately advised by [Prof. Sangwoo Mo](https://sites.google.com/view/sangwoomo/about) at the [Multimodal Orchestration of Artificial Intelligence (MOAI) Lab](https://sites.google.com/view/sangwoomo/moai-lab). My research centers on the fairness and reliability of generative models in practical deployment scenarios.
 
-During my M.S. in the same department, where I studied statistics and machine learning, I was supervised by [Prof. Minwoo Chae](https://sds.postech.ac.kr/). My work focused on applied ML for industrial projects and sampling techniques for diffusion models.
+Prior to this, I completed my M.S. in the same department, where I studied statistics and machine learning, under the supervision of [Prof. Minwoo Chae](https://sds.postech.ac.kr/). My research focused on sampling techniques for diffusion models. I also worked on applied ML for industrial projects.
 
 ## Research Interests
 
