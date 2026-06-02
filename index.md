@@ -22,6 +22,10 @@ Prior to this, I completed my M.S. in the same department under the supervision 
   Myeongsoo Kim, Eunji Kim, Minwoo Chae, Sangwoo Mo  
   *arXiv preprint, 2026* \[[arXiv](https://arxiv.org/abs/2605.28036)\]
 
+## Honors & Awards
+
+- **Jung Min-Keun Scholarship** (2022) — Awarded to outstanding POSTECH graduates entering the IME Department
+
 <!--
 ## News
 
