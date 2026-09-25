@@ -20,7 +20,7 @@ Prior to this, I completed my M.S. in the same department under the supervision 
 
 - **Stay Fair! Ensuring Group Fairness in Diffusion Models Across Guidance Scales**  
   Myeongsoo Kim, Eunji Kim, Minwoo Chae, Sangwoo Mo  
-  *arXiv preprint, 2026* \[[arXiv](https://arxiv.org/abs/2605.28036)\]
+  *NeurIPS 2026 (Poster)* \[[arXiv](https://arxiv.org/abs/2605.28036)\]
 
 ## Honors & Awards
 
